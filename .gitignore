@@ -5,3 +5,4 @@ logs/
 **/.DS_Store
 .vscode/settings.json
 profiles.yml
+.user.yml
